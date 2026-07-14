@@ -14,6 +14,7 @@ export default function NixWebring() {
           <Image
             id="nix"
             src="/nix.svg"
+            title="my nixos config"
             alt="Nix logo"
             width={15}
             height={15}
