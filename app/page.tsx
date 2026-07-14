@@ -104,6 +104,7 @@ export default function Home() {
         <div
           className="btn close"
           onClick={() => self.close()}
+          title="This might not work on every browser sorry ;("
           style={{ textDecoration: "none" }}
         >
           <i className="fa-solid fa-xmark"></i>
