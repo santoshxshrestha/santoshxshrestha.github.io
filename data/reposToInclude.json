@@ -19,9 +19,12 @@
   "audix",
   "homerc",
   "voxlan",
-  "flox",
   "nexish",
   "facebook-clone",
   "unix_perms",
-  "portfolio"
+  "portfolio",
+  "solpoll",
+  "whopays",
+  "nanofetch",
+  "ZenLoadBar"
 ]
